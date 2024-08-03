@@ -63,6 +63,10 @@ cd introspective_ORB_SLAM/scripts
 ./run_stereo_jackal_batch_inference.bash
 ```
 GPU will be used if available, by default. The program has been tested with cuDNN v7.6.5 and CUDA 10.2. 
+An example run:
+```
+https://drive.google.com/file/d/1vT5zwsXI3uwdgU0FsW_fznuxTgL8a8L6/view?usp=sharing
+```
 
 ### Run IV-SLAM for Training Data Generation
 When run in training mode, IV-SLAM evaluates extracted image features and generates 
